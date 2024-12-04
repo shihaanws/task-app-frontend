@@ -13,8 +13,8 @@ A task management application built with React, Redux, and Tailwind CSS. This ap
 ## Technologies Used
 
 - **Frontend**: React, Redux, Tailwind CSS
-- **Backend**: Node.js, Express (if applicable)
-- **Database**: MongoDB (if applicable)
+- **Backend**: Node.js, Express
+- **Database**: MongoDB 
 
 ## Installation
 
@@ -22,3 +22,11 @@ A task management application built with React, Redux, and Tailwind CSS. This ap
 
    ```bash
    git clone https://github.com/shihaanws/task-app-frontend
+
+
+1. Install and Run 
+
+   ```bash
+   npm install
+   npm start
+
